@@ -1,0 +1,9 @@
+streamlit
+transformers
+huggingface_hub
+pytube
+requests
+gradio
+langchain
+langchain_community
+tiktoken
